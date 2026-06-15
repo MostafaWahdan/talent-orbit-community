@@ -1,0 +1,15 @@
+# Secrets and local config
+.env
+.env.*
+
+# Run artifacts (never commit client work into the public repo)
+orbit-runs/
+*.jsonl
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
