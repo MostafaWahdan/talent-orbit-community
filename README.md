@@ -94,7 +94,7 @@ Verify the key first if you want: `python scripts/exa_client.py check --live`.
 ## Credits and license
 
 Talent Orbit is the talent-intelligence method behind **The HireOS**
-([thehiringos.co](https://thehireos.co)). If you build on it, a link back is
+([thehireos.co](https://thehireos.co)). If you build on it, a link back is
 appreciated and keeps the canon pointing the right way.
 
 Released under the MIT License (see `LICENSE`). Use it, fork it, ship maps with
