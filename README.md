@@ -1,9 +1,10 @@
 # Talent Orbit (Community Edition)
 
+A Claude Code skill for **incumbent-calibrated talent market mapping**.
+
 <img width="1620" height="2025" alt="talent-orbit" src="https://github.com/user-attachments/assets/ac096294-2e6c-4d94-8756-0fa20139204a" />
 
 
-A Claude Code skill for **incumbent-calibrated talent market mapping**.
 
 Most market maps start from the job description. Talent Orbit starts from the
 people a company **already hired** for the role. Those hires are revealed
