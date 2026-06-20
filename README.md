@@ -95,6 +95,11 @@ Verify the key first if you want: `python scripts/exa_client.py check --live`.
 - **Honest gaps beat confident fiction.** Thin-footprint companies get parked and
   listed, never given a made-up story.
 
+## Used in practice
+
+- An Egypt-based Software Engineering Lead search, 10 of 15 profiles I shared were approved for screening.
+- Then adapted it to two founding healthcare searches across Saudi Arabia and the UAE, mapping 24 prospects and advancing six to partner review within three days.
+
 ## Credits and license
 
 Talent Orbit is the talent-intelligence method behind **The HireOS**
